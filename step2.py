@@ -28,7 +28,7 @@ mmin_y = 0
 
 
 def draw():
-    img = Image.new('RGB', (640, 640))
+    img = Image.new('RGB', (640, 480))
     drw = ImageDraw.Draw(img, 'RGBA')
     print("HERE", points)
     # 2) draw everyting

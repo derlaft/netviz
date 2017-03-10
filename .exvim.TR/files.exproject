@@ -1,0 +1,21 @@
+" Press <F1> for help
+
+-[F]tr2 {
+ |-#newfile7.lyx#
+ |-in0
+ |-in2
+ |-input
+ |-newfile7-lyxformat-413.lyx
+ |-newfile7.lyx
+ |-newfile7.lyx~
+ |-NIR
+ |-out.png
+ |-out0
+ |-out1
+ |-step0.sh
+ |-step1.py
+ |-step2.py
+ |-test.py
+ |-TR.exvim }
+
+
