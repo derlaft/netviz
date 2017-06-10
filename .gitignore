@@ -1,4 +1,12 @@
 *lyx*
 *out*
 *in*
-NIR
+NIR*
+NYA?*
+cached*
+*.c
+/test
+/tr2
+/step0
+/step1
+/ring
